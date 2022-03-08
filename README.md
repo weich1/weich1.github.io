@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Blood Bank Services Project Website
 
-You can use the [editor on GitHub](https://github.com/weich1/weich1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a weekly updated blog of the progression from idea to functionality of the Blood Bank Services Project!
 
 ### Markdown
 
